@@ -1,0 +1,9 @@
+# output files
+
+*.exe
+*.pdb
+
+# secrets
+
+*.env
+
